@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./birthday.css";
 import data from "./Data";
 import List from "./List";
 

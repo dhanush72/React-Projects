@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import "./tour.css";
 import Loading from "./Loading";
 import Tour from "./Tour";
 

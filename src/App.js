@@ -1,11 +1,14 @@
 import Remainder from "./projects/birthday/Remainder";
 import Tours from "./projects/tours/Tours";
+import Review from "./projects/reviews/Review";
 
 function App() {
   return (
     <>
-      {/* <Remainder /> */}
+      {/* <Remainder /> 
       <Tours />
+      <Review />*/}
+      <Review />
     </>
   );
 }
