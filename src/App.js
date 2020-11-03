@@ -2,6 +2,7 @@ import Remainder from "./projects/birthday/Remainder";
 import Tours from "./projects/tours/Tours";
 import Review from "./projects/reviews/Review";
 import Question from "./projects/accordian/Question";
+import Menu from "./projects/menu/Menu";
 
 function App() {
   return (
@@ -9,8 +10,9 @@ function App() {
       {/* <Remainder /> 
       <Tours />
       <Review />
-      <Review />*/}
-      <Question />
+      <Review />
+      <Question />*/}
+      <Menu />
     </>
   );
 }
