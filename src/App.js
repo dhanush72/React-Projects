@@ -21,8 +21,8 @@ function App() {
       <Tab />
       <PlaceholderText />
       <ColorGenerate />
-      <Todo />*/}
-      <Navbar />
+      <Todo />
+      <Navbar />*/}
     </>
   );
 }

@@ -1,5 +1,4 @@
 import React, { useState, useRef, useEffect } from "react";
-import Logo from "../../logo.svg";
 import styles from "./Navbar.module.css";
 import { FaBars } from "react-icons/fa";
 import { links, social } from "./data";
