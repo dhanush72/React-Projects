@@ -7,6 +7,7 @@ import Tab from "./projects/tabs/Tab";
 import PlaceholderText from "./projects/placeholder/PlaceholderText";
 import ColorGenerate from "./projects/color_generator/ColorGenerate";
 import Todo from "./projects/todo/Todo";
+import Navbar from "./projects/navbar/Navbar";
 
 function App() {
   return (
@@ -19,8 +20,9 @@ function App() {
       <Menu />
       <Tab />
       <PlaceholderText />
-      <ColorGenerate />*/}
-      <Todo />
+      <ColorGenerate />
+      <Todo />*/}
+      <Navbar />
     </>
   );
 }
