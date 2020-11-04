@@ -23,9 +23,9 @@ const Menu = () => {
       <section className={`${styles.menu} ${styles.section}`}>
         <h2 className={styles.title}>Our Menu</h2>
         <div className={styles.underline}></div>
-        <Categories categories={categories} filterItems={filterItems} />
-        <MenuItems items={menuItems} />
       </section>
+      <Categories categories={categories} filterItems={filterItems} />
+      <MenuItems items={menuItems} />
     </>
   );
 };
