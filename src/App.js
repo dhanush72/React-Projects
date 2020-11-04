@@ -5,6 +5,7 @@ import Question from "./projects/accordian/Question";
 import Menu from "./projects/menu/Menu";
 import Tab from "./projects/tabs/Tab";
 import PlaceholderText from "./projects/placeholder/PlaceholderText";
+import ColorGenerate from "./projects/color_generator/ColorGenerate";
 
 function App() {
   return (
@@ -15,8 +16,9 @@ function App() {
       <Review />
       <Question />
       <Menu />
-      <Tab />*/}
-      <PlaceholderText />
+      <Tab />
+      <PlaceholderText />*/}
+      <ColorGenerate />
     </>
   );
 }
