@@ -6,6 +6,7 @@ import Menu from "./projects/menu/Menu";
 import Tab from "./projects/tabs/Tab";
 import PlaceholderText from "./projects/placeholder/PlaceholderText";
 import ColorGenerate from "./projects/color_generator/ColorGenerate";
+import Todo from "./projects/todo/Todo";
 
 function App() {
   return (
@@ -17,8 +18,9 @@ function App() {
       <Question />
       <Menu />
       <Tab />
-      <PlaceholderText />*/}
-      <ColorGenerate />
+      <PlaceholderText />
+      <ColorGenerate />*/}
+      <Todo />
     </>
   );
 }
